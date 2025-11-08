@@ -20,29 +20,13 @@ A simple **React Native** app to display a coffee shop menu with options to view
 - **HTTP Requests:** Axios
 - **State Management:** React Hooks (`useState`)
 
-### 2. Install dependencies
-
-**Frontend:**
-
-```bash
-cd frontend
-npm install
-```
-
-**Backend:**
-
-```bash
-cd ../backend
-npm install
-```
-
-### 3. Run the app
+### 2. Run the app
 
 **Start backend server:**
 
 ```bash
-npm start
-# Default port: 3000
+cd ../backend
+npm install
 ```
 
 **Start frontend app:**
